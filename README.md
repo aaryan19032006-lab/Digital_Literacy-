@@ -54,14 +54,13 @@ Created a case study on UPI fraud and a prevention checklist to promote safe onl
 
 ## 📎 Repository Structure
 
-digital-literacy-project/
-├── README.md
-├── report/
-├── task-1-presentation/
-├── task-2-portfolio/
-├── task-3-platforms/
-├── task-4-email-etiquette/
-├── task-5-cybercrime/
+
+- 📄 Project Report: report/Digital Literacy Project Report.pdf  
+- 🎨 Infographic: task-1-presentation/  
+- 💼 Portfolio: task-2-portfolio/  
+- 🧪 Platforms: task-3-platforms/  
+- 📧 Email Task: task-4-email-etiquette/  
+- 🔐 Cybercrime Task: task-5-cybercrime/
 
 ---
 
